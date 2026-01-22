@@ -935,6 +935,15 @@
       "repasse": null
     }
   },
+  "serena": {
+    "nome": "Serena",
+    "docs": {
+      "book": null,
+      "preco": null,
+      "disponibilidade": null,
+      "repasse": null
+    }
+  },
   "seven-avenue": {
     "nome": "Seven Avenue",
     "docs": {
