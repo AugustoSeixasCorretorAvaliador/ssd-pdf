@@ -9,7 +9,7 @@
     }
   },
   "reserva-sao-francisco": {
-    "nome": "Reserva SÃÂ£o Francisco",
+    "nome": "Reserva SÃÂÃÂ£o Francisco",
     "docs": {
       "book": null,
       "preco": null,
@@ -72,7 +72,7 @@
     }
   },
   "oasis-resort": {
-    "nome": "OÃÂ¡sis Resort",
+    "nome": "OÃÂÃÂ¡sis Resort",
     "docs": {
       "book": null,
       "preco": null,
@@ -81,7 +81,7 @@
     }
   },
   "tropico-camboinhas": {
-    "nome": "TrÃÂ³pico Camboinhas",
+    "nome": "TrÃÂÃÂ³pico Camboinhas",
     "docs": {
       "book": null,
       "preco": null,
@@ -144,7 +144,7 @@
     }
   },
   "mediterraneo": {
-    "nome": "MediterrÃÂ¢neo",
+    "nome": "MediterrÃÂÃÂ¢neo",
     "docs": {
       "book": null,
       "preco": null,
@@ -180,7 +180,7 @@
     }
   },
   "meu-crescer-niteroi-bosque-residence": {
-    "nome": "Meu Crescer NiterÃÂ³i Bosque Residence",
+    "nome": "Meu Crescer NiterÃÂÃÂ³i Bosque Residence",
     "docs": {
       "book": null,
       "preco": null,
@@ -189,7 +189,7 @@
     }
   },
   "niteroi-open": {
-    "nome": "NiterÃÂ³i Open",
+    "nome": "NiterÃÂÃÂ³i Open",
     "docs": {
       "book": null,
       "preco": null,
@@ -234,7 +234,7 @@
     }
   },
   "connect-icarai": {
-    "nome": "Connect IcaraÃÂ­",
+    "nome": "Connect IcaraÃÂÃÂ­",
     "docs": {
       "book": null,
       "preco": null,
@@ -252,7 +252,7 @@
     }
   },
   "in-icarai": {
-    "nome": "In IcaraÃÂ­",
+    "nome": "In IcaraÃÂÃÂ­",
     "docs": {
       "book": null,
       "preco": null,
@@ -306,7 +306,7 @@
     }
   },
   "oka-studios-icarai": {
-    "nome": "OKA Studios IcaraÃÂ­",
+    "nome": "OKA Studios IcaraÃÂÃÂ­",
     "docs": {
       "book": null,
       "preco": null,
@@ -342,7 +342,7 @@
     }
   },
   "soumais-icarai": {
-    "nome": "SouMais IcaraÃÂ­",
+    "nome": "SouMais IcaraÃÂÃÂ­",
     "docs": {
       "book": null,
       "preco": null,
@@ -360,7 +360,7 @@
     }
   },
   "sunset-icarai": {
-    "nome": "Sunset IcaraÃÂ­",
+    "nome": "Sunset IcaraÃÂÃÂ­",
     "docs": {
       "book": null,
       "preco": null,
@@ -387,7 +387,7 @@
     }
   },
   "up-icarai-studio": {
-    "nome": "Up IcaraÃÂ­ Studio",
+    "nome": "Up IcaraÃÂÃÂ­ Studio",
     "docs": {
       "book": null,
       "preco": null,
@@ -396,7 +396,7 @@
     }
   },
   "ion-icarai": {
-    "nome": "ÃÂon IcaraÃÂ­",
+    "nome": "ÃÂÃÂon IcaraÃÂÃÂ­",
     "docs": {
       "book": null,
       "preco": null,
@@ -405,7 +405,7 @@
     }
   },
   "conviva-icarai": {
-    "nome": "Conviva IcaraÃÂ­",
+    "nome": "Conviva IcaraÃÂÃÂ­",
     "docs": {
       "book": null,
       "preco": null,
@@ -414,7 +414,7 @@
     }
   },
   "conviva-life-inga": {
-    "nome": "Conviva Life IngÃÂ¡",
+    "nome": "Conviva Life IngÃÂÃÂ¡",
     "docs": {
       "book": null,
       "preco": null,
@@ -531,7 +531,7 @@
     }
   },
   "atria-residencial": {
-    "nome": "ÃÂtria Residencial",
+    "nome": "ÃÂÃÂtria Residencial",
     "docs": {
       "book": null,
       "preco": null,
@@ -603,7 +603,7 @@
     }
   },
   "porto-oceanico": {
-    "nome": "Porto OceÃÂ¢nico",
+    "nome": "Porto OceÃÂÃÂ¢nico",
     "docs": {
       "book": null,
       "preco": null,
@@ -612,7 +612,7 @@
     }
   },
   "praias-oceanicas": {
-    "nome": "Praias OceÃÂ¢nicas",
+    "nome": "Praias OceÃÂÃÂ¢nicas",
     "docs": {
       "book": null,
       "preco": null,
@@ -621,7 +621,7 @@
     }
   },
   "reserva-do-grotao": {
-    "nome": "Reserva do GrotÃÂ£o",
+    "nome": "Reserva do GrotÃÂÃÂ£o",
     "docs": {
       "book": null,
       "preco": null,
@@ -639,7 +639,7 @@
     }
   },
   "saint-fabio": {
-    "nome": "Saint FÃÂ¡bio",
+    "nome": "Saint FÃÂÃÂ¡bio",
     "docs": {
       "book": null,
       "preco": null,
@@ -657,7 +657,7 @@
     }
   },
   "vila-gaudi": {
-    "nome": "Vila GaudÃÂ­",
+    "nome": "Vila GaudÃÂÃÂ­",
     "docs": {
       "book": null,
       "preco": null,
@@ -666,7 +666,7 @@
     }
   },
   "vila-santo-antonio": {
-    "nome": "Vila Santo AntÃÂ´nio",
+    "nome": "Vila Santo AntÃÂÃÂ´nio",
     "docs": {
       "book": null,
       "preco": null,
@@ -738,7 +738,7 @@
     }
   },
   "chacara-pendotiba": {
-    "nome": "ChÃÂ¡cara Pendotiba",
+    "nome": "ChÃÂÃÂ¡cara Pendotiba",
     "docs": {
       "book": null,
       "preco": null,
@@ -749,10 +749,10 @@
   "fazenda-fillomena": {
     "nome": "Fazenda Fillomena",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "fazenda-fillomena.pdf",
+      "preco": "fazenda-fillomena.pdf",
       "disponibilidade": null,
-      "repasse": null
+      "repasse": "fazenda-fillomena.pdf"
     }
   },
   "great-place": {
@@ -855,7 +855,7 @@
     }
   },
   "isla-unico": {
-    "nome": "Isla ÃÂnico",
+    "nome": "Isla ÃÂÃÂnico",
     "docs": {
       "book": null,
       "preco": null,
@@ -1044,7 +1044,7 @@
     }
   },
   "vina-del-mar": {
-    "nome": "ViÃÂ±a Del Mar",
+    "nome": "ViÃÂÃÂ±a Del Mar",
     "docs": {
       "book": null,
       "preco": null,
@@ -1053,7 +1053,7 @@
     }
   },
   "wind-oceanica": {
-    "nome": "Wind OceÃÂ¢nica",
+    "nome": "Wind OceÃÂÃÂ¢nica",
     "docs": {
       "book": null,
       "preco": null,
@@ -1134,7 +1134,7 @@
     }
   },
   "liv-360": {
-    "nome": "Liv 360ÃÂº",
+    "nome": "Liv 360ÃÂÃÂº",
     "docs": {
       "book": null,
       "preco": null,
