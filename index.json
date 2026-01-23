@@ -35,6 +35,15 @@
       "repasse": null
     }
   },
+  "aseling": {
+    "nome": "Seling",
+    "docs": {
+      "book": null,
+      "preco": null,
+      "disponibilidade": null,
+      "repasse": null
+    }
+  },
   "atlantis": {
     "nome": "Atlantis",
     "docs": {
