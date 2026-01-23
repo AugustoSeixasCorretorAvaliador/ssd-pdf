@@ -56,8 +56,8 @@
   "attrium": {
     "nome": "Attrium",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "attrium.pdf",
+      "preco": "attrium.pdf",
       "disponibilidade": null,
       "repasse": null
     }
