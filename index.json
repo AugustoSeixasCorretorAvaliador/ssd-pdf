@@ -1226,8 +1226,8 @@
   "wind-itacoatiara": {
     "nome": "Wind Itacoatiara",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "wind-itacoatiara.pdf",
+      "preco": "wind-itacoatiara.pdf",
       "disponibilidade": null,
       "repasse": null
     }
