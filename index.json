@@ -281,9 +281,9 @@
   "fazenda-fillomena": {
     "nome": "Fazenda Fillomena",
     "docs": {
-      "book": null,
-      "preco": null,
-      "disponibilidade": null,
+      "book": "fazenda-fillomena.pdf",
+      "preco": "fazenda-fillomena.pdf",
+      "disponibilidade": "fazenda-fillomena.pdf",
       "repasse": null
     }
   },
