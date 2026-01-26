@@ -1163,9 +1163,9 @@
   "upside-charitas": {
     "nome": "Upside Charitas",
     "docs": {
-      "book": null,
-      "preco": null,
-      "disponibilidade": null,
+      "book": "upside-charitas.pdf",
+      "preco": "upside-charitas.pdf",
+      "disponibilidade": "upside-charitas.pdf",
       "repasse": null
     }
   },
