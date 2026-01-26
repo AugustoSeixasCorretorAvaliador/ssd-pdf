@@ -326,8 +326,8 @@
   "gael": {
     "nome": "Gael",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "gael.pdf",
+      "preco": "gael.pdf",
       "disponibilidade": null,
       "repasse": null
     }
