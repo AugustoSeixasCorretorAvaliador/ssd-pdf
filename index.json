@@ -1136,8 +1136,8 @@
   "uni-home-studios": {
     "nome": "Uni Home Studios",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "uni-home-studios.pdf",
+      "preco": "uni-home-studios.pdf",
       "disponibilidade": null,
       "repasse": null
     }
