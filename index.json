@@ -35,15 +35,6 @@
       "repasse": null
     }
   },
-  "seling": {
-    "nome": "Seling",
-    "docs": {
-      "book": "seling.pdf",
-      "preco": "seling.pdf",
-      "disponibilidade": null,
-      "repasse": null
-    }
-  },
   "atlantis": {
     "nome": "Atlantis",
     "docs": {
@@ -487,6 +478,15 @@
   },
   "lake-view": {
     "nome": "Lake View",
+    "docs": {
+      "book": null,
+      "preco": null,
+      "disponibilidade": null,
+      "repasse": null
+    }
+  },
+  "lazuli": {
+    "nome": "Lazuli",
     "docs": {
       "book": null,
       "preco": null,
@@ -940,6 +940,15 @@
     "docs": {
       "book": "sd40.pdf",
       "preco": "sd40.pdf",
+      "disponibilidade": null,
+      "repasse": null
+    }
+  },
+  "seling": {
+    "nome": "Seling",
+    "docs": {
+      "book": "seling.pdf",
+      "preco": "seling.pdf",
       "disponibilidade": null,
       "repasse": null
     }
