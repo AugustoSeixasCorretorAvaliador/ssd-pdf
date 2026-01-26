@@ -542,8 +542,8 @@
   "marina": {
     "nome": "Marina",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "marina.pdf",
+      "preco": "marina.pdf",
       "disponibilidade": null,
       "repasse": null
     }
