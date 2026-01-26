@@ -848,8 +848,8 @@
   "pulse-by-soter": {
     "nome": "Pulse by Soter",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "pulse-by-soter.pdf",
+      "preco": "pulse-by-soter.pdf",
       "disponibilidade": null,
       "repasse": null
     }
