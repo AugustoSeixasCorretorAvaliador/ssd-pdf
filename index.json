@@ -758,8 +758,8 @@
   "origem-residencial": {
     "nome": "Origem Residencial",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "origem-residencial.pdf",
+      "preco": "origem-residencial.pdf",
       "disponibilidade": null,
       "repasse": null
     }
