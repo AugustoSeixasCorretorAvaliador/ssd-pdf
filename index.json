@@ -632,8 +632,8 @@
   "neo-design": {
     "nome": "Neo Design",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "neo-design.pdf",
+      "preco": "neo-design.pdf",
       "disponibilidade": null,
       "repasse": null
     }
