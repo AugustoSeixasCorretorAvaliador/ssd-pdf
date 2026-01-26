@@ -587,8 +587,8 @@
   "mok-132": {
     "nome": "Mok 132",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "mok-132.pdf",
+      "preco": "mok-132.pdf",
       "disponibilidade": null,
       "repasse": null
     }
