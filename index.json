@@ -1001,8 +1001,8 @@
   "soumais-charitas": {
     "nome": "SouMais Charitas",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "soumais-charitas.pdf",
+      "preco": "soumais-charitas.pdf",
       "disponibilidade": null,
       "repasse": null
     }
