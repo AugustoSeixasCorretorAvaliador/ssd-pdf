@@ -389,8 +389,8 @@
   "in-icarai": {
     "nome": "In Icaraí",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "in-icarai.pdf",
+      "preco": "in-icarai.pdf",
       "disponibilidade": null,
       "repasse": null
     }
