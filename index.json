@@ -606,7 +606,7 @@
     "nome": "Monier",
     "docs": {
       "book": null,
-      "preco": null,
+      "preco": "monier.pdf",
       "disponibilidade": null,
       "repasse": null
     }
