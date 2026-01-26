@@ -560,8 +560,8 @@
   "mb-loft": {
     "nome": "Mb Loft",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "mb-loft.pdf",
+      "preco": "mb-loft.pdf",
       "disponibilidade": null,
       "repasse": null
     }
