@@ -938,7 +938,7 @@
   "sd40": {
     "nome": "SD40",
     "docs": {
-      "book": null,
+      "book": "sd40.pdf",
       "preco": null,
       "disponibilidade": null,
       "repasse": null
