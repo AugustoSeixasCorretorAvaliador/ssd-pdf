@@ -488,8 +488,8 @@
   "lazuli": {
     "nome": "Lazuli",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "lazuli.pdf",
+      "preco": "lazuli.pdf",
       "disponibilidade": null,
       "repasse": null
     }
