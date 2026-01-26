@@ -362,7 +362,7 @@
   "home-boutique": {
     "nome": "Home Boutique",
     "docs": {
-      "book": null,
+      "book": "home-boutique.pdf",
       "preco": null,
       "disponibilidade": null,
       "repasse": null
