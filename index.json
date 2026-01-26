@@ -929,8 +929,8 @@
   "scenarium": {
     "nome": "Scenarium",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "scenarium.pdf",
+      "preco": "scenarium.pdf",
       "disponibilidade": null,
       "repasse": null
     }
