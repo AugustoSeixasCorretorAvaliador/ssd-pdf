@@ -425,8 +425,8 @@
   "jardim-dos-manacas": {
     "nome": "Jardim dos Manacas",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "jardim-dos-manacas.pdf",
+      "preco": "jardim-dos-manacas.pdf",
       "disponibilidade": null,
       "repasse": null
     }
