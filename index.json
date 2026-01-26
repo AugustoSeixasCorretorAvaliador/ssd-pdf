@@ -1082,8 +1082,8 @@
   "terramarine": {
     "nome": "Terramarine",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "terramarine.pdf",
+      "preco": "terramarine.pdf",
       "disponibilidade": null,
       "repasse": null
     }
