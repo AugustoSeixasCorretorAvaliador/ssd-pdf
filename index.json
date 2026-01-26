@@ -353,8 +353,8 @@
   "green-life": {
     "nome": "Green Life",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "green-life.pdf",
+      "preco": "green-life.pdf",
       "disponibilidade": null,
       "repasse": null
     }
