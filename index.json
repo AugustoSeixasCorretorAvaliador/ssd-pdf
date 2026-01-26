@@ -731,8 +731,8 @@
   "oka-studios-icarai": {
     "nome": "OKA Studios Icaraí",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "oka-studios-icarai.pdf",
+      "preco": "oka-studios-icarai.pdf",
       "disponibilidade": null,
       "repasse": null
     }
