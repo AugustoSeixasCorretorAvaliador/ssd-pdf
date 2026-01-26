@@ -650,8 +650,8 @@
   "nirvana-praia-boutique": {
     "nome": "Nirvana Praia Boutique",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "nirvana-praia-boutique.pdf",
+      "preco": "nirvana-praia-boutique.pdf",
       "disponibilidade": null,
       "repasse": null
     }
