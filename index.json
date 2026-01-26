@@ -200,8 +200,8 @@
   "conviva-life-camboinhas": {
     "nome": "Conviva Life Camboinhas",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "conviva-life-camboinhas.pdf",
+      "preco": "conviva-life-camboinhas.pdf",
       "disponibilidade": null,
       "repasse": null
     }
