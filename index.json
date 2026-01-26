@@ -677,8 +677,8 @@
   "nomade": {
     "nome": "Nomade",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "nomade.pdf",
+      "preco": "nomade.pdf",
       "disponibilidade": null,
       "repasse": null
     }
