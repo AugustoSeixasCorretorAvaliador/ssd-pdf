@@ -641,7 +641,7 @@
   "nice": {
     "nome": "Nice",
     "docs": {
-      "book": null,
+      "book": "nice.pdf",
       "preco": null,
       "disponibilidade": null,
       "repasse": null
