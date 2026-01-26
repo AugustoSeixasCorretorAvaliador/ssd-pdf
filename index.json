@@ -119,8 +119,8 @@
   "caminhos-da-guanabara": {
     "nome": "Caminhos da Guanabara",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "caminhos-da-guanabara.pdf",
+      "preco": "caminhos-da-guanabara.pdf",
       "disponibilidade": null,
       "repasse": null
     }
