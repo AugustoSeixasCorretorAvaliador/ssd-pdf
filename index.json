@@ -1064,9 +1064,9 @@
   "tao": {
     "nome": "TAO",
     "docs": {
-      "book": null,
-      "preco": null,
-      "disponibilidade": null,
+      "book": "tao.pdf",
+      "preco": "tao.pdf",
+      "disponibilidade": "tao.pdf",
       "repasse": null
     }
   },
