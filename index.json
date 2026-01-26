@@ -1244,7 +1244,7 @@
   "wind-piratininga": {
     "nome": "Wind Piratininga",
     "docs": {
-      "book": null,
+      "book": "wind-piratininga.pdf",
       "preco": null,
       "disponibilidade": null,
       "repasse": null
