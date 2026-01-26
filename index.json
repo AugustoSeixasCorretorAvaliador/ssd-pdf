@@ -1172,7 +1172,7 @@
   "vila-gaudi": {
     "nome": "Vila Gaudí",
     "docs": {
-      "book": null,
+      "book": "vila-gaudi.pdf",
       "preco": null,
       "disponibilidade": null,
       "repasse": null
