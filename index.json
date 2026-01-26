@@ -1010,8 +1010,8 @@
   "soumais-icarai": {
     "nome": "SouMais Icaraí",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "soumais-icarai.pdf",
+      "preco": "soumais-icarai.pdf",
       "disponibilidade": null,
       "repasse": null
     }
