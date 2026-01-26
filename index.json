@@ -515,8 +515,8 @@
   "maestro": {
     "nome": "Maestro",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "maestro.pdf",
+      "preco": "maestro.pdf",
       "disponibilidade": null,
       "repasse": null
     }
