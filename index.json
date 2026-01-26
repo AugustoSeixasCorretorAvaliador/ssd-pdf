@@ -101,8 +101,8 @@
   "brise-by-conviva": {
     "nome": "Brise By Conviva",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "brise-by-conviva.pdf",
+      "preco": "brise-by-conviva.pdf",
       "disponibilidade": null,
       "repasse": null
     }
