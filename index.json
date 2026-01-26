@@ -884,8 +884,8 @@
   "reserva-sao-francisco": {
     "nome": "Reserva São Francisco",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "reserva-sao-francisco.pdf",
+      "preco": "reserva-sao-francisco.pdf",
       "disponibilidade": null,
       "repasse": null
     }
