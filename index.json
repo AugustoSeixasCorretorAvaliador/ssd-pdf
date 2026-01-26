@@ -398,8 +398,8 @@
   "ion-icarai": {
     "nome": "Íon Icaraí",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "ion-icarai.pdf",
+      "preco": "ion-icarai.pdf",
       "disponibilidade": null,
       "repasse": null
     }
