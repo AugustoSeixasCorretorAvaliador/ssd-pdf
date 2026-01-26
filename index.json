@@ -533,8 +533,8 @@
   "maren-by-ramabe": {
     "nome": "Maren By RAMABE",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "maren-by-ramabe.pdf",
+      "preco": "maren-by-ramabe.pdf",
       "disponibilidade": null,
       "repasse": null
     }
