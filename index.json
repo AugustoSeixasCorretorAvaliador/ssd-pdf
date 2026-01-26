@@ -110,8 +110,8 @@
   "calle-sardegna": {
     "nome": "Calle Sardegna",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "calle-sardegna.pdf",
+      "preco": "calle-sardegna.pdf",
       "disponibilidade": null,
       "repasse": null
     }
