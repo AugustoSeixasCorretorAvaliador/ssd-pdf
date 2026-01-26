@@ -308,10 +308,10 @@
   "flua": {
     "nome": "Flua",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "flua.pdf",
+      "preco": "flua.pdf",
       "disponibilidade": null,
-      "repasse": null
+      "repasse": "flua.pdf"
     }
   },
   "freedom-styles": {
