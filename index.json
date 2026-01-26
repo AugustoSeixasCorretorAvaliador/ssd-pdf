@@ -1028,8 +1028,8 @@
   "stage": {
     "nome": "Stage",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "stage.pdf",
+      "preco": "stage.pdf",
       "disponibilidade": null,
       "repasse": null
     }
