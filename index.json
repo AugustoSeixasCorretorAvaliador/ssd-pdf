@@ -992,8 +992,8 @@
   "soul-fonseca": {
     "nome": "Soul Fonseca",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "soul-fonseca.pdf",
+      "preco": "soul-fonseca.pdf",
       "disponibilidade": null,
       "repasse": null
     }
