@@ -1154,8 +1154,8 @@
   "up-icarai-studio": {
     "nome": "Up Icaraí Studio",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "up-icarai-studio.pdf",
+      "preco": "up-icarai-studio.pdf",
       "disponibilidade": null,
       "repasse": null
     }
