@@ -38,8 +38,8 @@
   "seling": {
     "nome": "Seling",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "seling.pdf",
+      "preco": "seling.pdf",
       "disponibilidade": null,
       "repasse": null
     }
