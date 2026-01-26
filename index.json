@@ -1127,8 +1127,8 @@
   "tropico-camboinhas": {
     "nome": "Trópico Camboinhas",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "tropico-camboinhas.pdf",
+      "preco": "tropico-camboinhas.pdf",
       "disponibilidade": null,
       "repasse": null
     }
