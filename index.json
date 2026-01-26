@@ -434,8 +434,8 @@
   "jardim-itacoa": {
     "nome": "Jardim Itacoa",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "jardim-itacoa.pdf",
+      "preco": "jardim-itacoa.pdf",
       "disponibilidade": null,
       "repasse": null
     }
