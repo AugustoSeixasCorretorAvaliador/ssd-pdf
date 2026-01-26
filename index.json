@@ -983,8 +983,8 @@
   "sou-mais-wellness-charitas": {
     "nome": "Sou Mais+ Wellness Charitas",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "sou-mais-wellness-charitas.pdf",
+      "preco": "sou-mais-wellness-charitas.pdf",
       "disponibilidade": null,
       "repasse": null
     }
