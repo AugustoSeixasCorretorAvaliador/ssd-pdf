@@ -686,8 +686,8 @@
   "np38": {
     "nome": "NP38",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "np38.pdf",
+      "preco": "np38.pdf",
       "disponibilidade": null,
       "repasse": null
     }
