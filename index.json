@@ -569,7 +569,7 @@
   "mediterraneo": {
     "nome": "Mediterrâneo",
     "docs": {
-      "book": null,
+      "book": "mediterraneo.pdf",
       "preco": null,
       "disponibilidade": null,
       "repasse": null
