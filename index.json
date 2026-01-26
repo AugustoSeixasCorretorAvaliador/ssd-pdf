@@ -1235,8 +1235,8 @@
   "wind-oceanica": {
     "nome": "Wind Oceânica",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "wind-oceanica.pdf",
+      "preco": "wind-oceanica.pdf",
       "disponibilidade": null,
       "repasse": null
     }
