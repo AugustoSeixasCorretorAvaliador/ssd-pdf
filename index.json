@@ -1109,8 +1109,8 @@
   "the-pier-residencial": {
     "nome": "The Pier Residencial",
     "docs": {
-      "book": null,
-      "preco": null,
+      "book": "the-pier-residencial.pdf",
+      "preco": "the-pier-residencial.pdf",
       "disponibilidade": null,
       "repasse": null
     }
