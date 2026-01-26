@@ -893,7 +893,7 @@
   "rio-branco-220": {
     "nome": "Rio Branco 220",
     "docs": {
-      "book": null,
+      "book": "rio-branco-220.pdf",
       "preco": null,
       "disponibilidade": null,
       "repasse": null
